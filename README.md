@@ -36,4 +36,4 @@
 
 ### Hints and Hurdles
 + Make sure the students select `HTTPS` for cloning. They don't have SSH keys set up on their computer so that version of cloning won't work.
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-git' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-git' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
